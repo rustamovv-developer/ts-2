@@ -1,0 +1,19 @@
+.nav {
+  padding: 28px 0px;
+}
+.nav__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav__list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.nav__link {
+  color: #000000;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
